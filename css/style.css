@@ -11,3 +11,7 @@ img {
     padding-left: 25%;
     padding-right: 25%; 
 }
+
+.obrazok img {
+    max-width: 800px;
+}
