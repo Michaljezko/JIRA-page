@@ -21,9 +21,9 @@ header {
 }
 
 h1 {
-    padding-bottom: 1.3em;
-    padding-top: 1.3em;
-    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    color:#dcd8d8;
 }
 
 .menu {
@@ -64,6 +64,17 @@ nav a:focus {
     margin-top: 10px;
 }
 
+.sql-h1 h1 {
+    padding-bottom: -50px;
+    margin-bottom: -50px;
+}
+
+h3 {
+    text-align: left;
+    color:#dcd8d8;
+    font-weight: 300;
+}
+
 a {
     color:#9f9f9f;
     text-decoration: none;
@@ -71,6 +82,24 @@ a {
 
 .last-li {
     margin-bottom: 20px;
+}
+
+.sql-img {
+    max-width: 450px;
+    margin-top: 15px;
+    
+}
+
+img {
+    border: 1px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+ol li {
+    text-align: left;
+    color:#dcd8d8;
+    margin-bottom: 10px;
 }
 
 a:hover,
