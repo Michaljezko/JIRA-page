@@ -106,3 +106,8 @@ a:hover,
 a:focus {
 	color: #dcd8d8;
 }
+
+p {
+    text-align: left;
+    color:#dcd8d8
+}
